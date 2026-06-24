@@ -4,9 +4,9 @@ A junior dev interested in all things programming.
 
 ## Check out:
 
-[nimio](https://github.com/kyhyy/nimio) - Minimal coding agent harness inspired by pi, written in Nim.
-[kz](https://github.com/kyhyy/kz) - kz (standing for KiloZig) is a kilo.c inspired text editor written in Zig.
-[nicea](https://github.com/kyhyy/nicea) - my personal quickshell rice that I daily drive.
+- [nimio](https://github.com/kyhyy/nimio) - Minimal coding agent harness inspired by pi, written in Nim.
+- [kz](https://github.com/kyhyy/kz) - kz (standing for KiloZig) is a kilo.c inspired text editor written in Zig.
+- [nicea](https://github.com/kyhyy/nicea) - my personal quickshell rice that I daily drive.
 
 ## Contact me at:
 
