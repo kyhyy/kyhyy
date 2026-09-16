@@ -1,6 +1,6 @@
 # Hi, kyhy here 👋
 
-A junior dev interested in all things programming.
+A software dev interested in all things programming.
 
 ## Check out:
 
